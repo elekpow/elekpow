@@ -1,7 +1,7 @@
 ### ТУРНИРЫ УШУ 1.1 - программа для проведения турниров по ушу Саньда и Туйшоу
 Программа позволяет проводить турниры  районного или клубного уровня.
 
-Скачать программу: [ТУРНИРЫ УШУ (версия 1.1)](https://github.com/elekpow/Developer/raw/main/HiasmProject/Wushu-Sanda/Setup/setup.exe)
+Скачать программу: [ТУРНИРЫ УШУ (версия 1.1)](https://github.com/elekpow/elekpow/raw/main/Wushu-Sen/setup.exe)
 
 
 
