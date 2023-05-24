@@ -15,3 +15,8 @@
 наименование спортивных организаций,
 списки тренеров,
 список судей
+
+
+*** круговая система***
+
+![круговая система](https://github.com/elekpow/elekpow/tree/main/Wushu-Sen/basket-krug-sistema.png)
