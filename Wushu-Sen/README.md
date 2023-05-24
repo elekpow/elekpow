@@ -19,4 +19,4 @@
 
 *** круговая система***
 
-![круговая система](https://github.com/elekpow/elekpow/tree/main/Wushu-Sen/basket-krug-sistema.png)
+![круговая система](https://github.com/elekpow/main/Wushu-Sen/basket-krug-sistema.png)
